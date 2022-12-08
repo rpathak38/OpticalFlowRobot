@@ -1,0 +1,3 @@
+[submodule "lib/ESP32MotorControl2"]
+	path = lib/ESP32MotorControl2
+	url = https://github.com/rpathak38/ESP32MotorControl2
